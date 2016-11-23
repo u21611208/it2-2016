@@ -5,9 +5,9 @@
 * チームリーダーの決定
 * 以下、講義資料に従って進める。
 
-# マークダウン
-## こんにちは
-###　こんばんは
+#マークダウン
+##こんにちは
+###こんばんは
 ## ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-*ohohohohohohohoh*
+oh*ohohohohohohohoh*oh
