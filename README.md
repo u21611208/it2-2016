@@ -12,3 +12,8 @@
 
 oh*ohohohohohohohoh*oh
 1.どーも
+
+#リスト
+*あ
+*い
+*う
